@@ -1,0 +1,39 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26124.0
+MinimumVisualStudioVersion = 15.0.26124.0
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{A330033A-0457-4052-A193-5B6DFDCF84BE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EvitandoAInjecaoDeSQL.Web", "src\EvitandoAInjecaoDeSQL.Web\EvitandoAInjecaoDeSQL.Web.csproj", "{33877079-98BB-4C52-8E26-A5A8E3869AF7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{33877079-98BB-4C52-8E26-A5A8E3869AF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33877079-98BB-4C52-8E26-A5A8E3869AF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33877079-98BB-4C52-8E26-A5A8E3869AF7}.Debug|x64.ActiveCfg = Debug|x64
+		{33877079-98BB-4C52-8E26-A5A8E3869AF7}.Debug|x64.Build.0 = Debug|x64
+		{33877079-98BB-4C52-8E26-A5A8E3869AF7}.Debug|x86.ActiveCfg = Debug|x86
+		{33877079-98BB-4C52-8E26-A5A8E3869AF7}.Debug|x86.Build.0 = Debug|x86
+		{33877079-98BB-4C52-8E26-A5A8E3869AF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33877079-98BB-4C52-8E26-A5A8E3869AF7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33877079-98BB-4C52-8E26-A5A8E3869AF7}.Release|x64.ActiveCfg = Release|x64
+		{33877079-98BB-4C52-8E26-A5A8E3869AF7}.Release|x64.Build.0 = Release|x64
+		{33877079-98BB-4C52-8E26-A5A8E3869AF7}.Release|x86.ActiveCfg = Release|x86
+		{33877079-98BB-4C52-8E26-A5A8E3869AF7}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{33877079-98BB-4C52-8E26-A5A8E3869AF7} = {A330033A-0457-4052-A193-5B6DFDCF84BE}
+	EndGlobalSection
+EndGlobal

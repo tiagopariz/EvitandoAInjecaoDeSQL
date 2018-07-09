@@ -45,7 +45,6 @@ namespace EvitandoAInjecaoDeSQL.Web.Controllers
             }
 
             return View();
-
         }
     }
 }

@@ -1,0 +1,14 @@
+<h2>Login</h2>
+
+@using (Html.BeginForm("Login", "conta", FormMethod.Post, new { enctype = "multipart/form-data" }))
+{
+    <label>Usuario: </label>
+    <input type="text" id="usuario" name="usuario" /><br />
+
+    <label>Senha: </label>
+    <input type="text" id="senha" name="senha" /><br />
+
+    <input type="submit" value="Login" /><br />
+
+    <label>@ViewBag.Mensagem</label>
+}
